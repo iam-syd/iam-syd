@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himansh01-dev
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning React
 - 📫 How to reach me himanshu01.dev@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
