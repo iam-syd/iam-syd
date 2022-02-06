@@ -5,6 +5,8 @@
 - 📫 How to reach me himanshu01.dev@gmail.com
 - 👨‍💼 I'm open to Web-Dev Internship.
 
+[![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=himanshu01-dev)](https://github.com/himanshu01-dev/github-readme-stats)
+
 <!---
 himanshu01-dev/bio-data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
