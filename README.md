@@ -22,12 +22,12 @@
 
 <br/>
 
-**<h3>STUDENT || PROGRAMMER BY HEART ❤ || BUILDING WEB-APPS 📱 || ALWAYS READY FOR MOMOS 😅</h3>** 
+**<h3>STUDENT || PROGRAMMER BY HEART ❤ || BUILDING WEB-APPS 📱 || ALWAYS READY FOR MOMOS 😅</h3>**
 
 <br/>
 <br/>
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -42,9 +42,4 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
 <br />
-
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu01-dev&theme=vue) -->
-
-<!-- [![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=himanshu01-dev)](https://github.com/himanshu01-dev/github-readme-stats) -->
