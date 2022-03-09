@@ -22,18 +22,12 @@
 
 <br/>
 
-Hey, 
-
-I am Student at APSK, and I love being involved in Computer Science, and I am also proficient in JavaScript, Java, CSS, Html, and Bootstrap, MySQL and currently learning React.
- 
-
-Meanwhile, I love reading books because it helps me in growing my mind and makes me better than yesterday 📚
-
-Some of my hobbies are Swimming, Playing Basketball and reading about our Indian history.
+**<h3>STUDENT || PROGRAMMER BY HEART ❤ || BUILDING WEB-APPS 📱 || ALWAYS READY FOR MOMOS 😅</h3>** 
 
 <br/>
+<br/>
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
