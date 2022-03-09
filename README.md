@@ -1,7 +1,9 @@
+<!--  INTRODUCTION -->
 ## Hi, I'm Himanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![WEB DEVELOPER](https://user-images.githubusercontent.com/92101909/152692594-14ea1eb8-8585-405f-b6cf-0cfbd6119591.png)
 
+<!--  SOCIAL LINKS-->
 <a href="https://twitter.com/himanshu01_dev">
   <img align="left" alt="Himanshu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -20,6 +22,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=himanshu01-dev.himanshu01-dev)
 
+
+<!--  SUMMARY-->
 <br/>
 
 **<h3>STUDENT || PROGRAMMER BY HEART ❤ || BUILDING WEB-APPS 📱 || ALWAYS READY FOR MOMOS 😅</h3>**
@@ -27,6 +31,8 @@
 <br/>
 <br/>
 
+
+<!--  LANGUAGE & TOOLS, I KNOW OR I USE-->
 **Languages and Tools:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
