@@ -1,5 +1,5 @@
 <!--  INTRODUCTION -->
-## Hi, I'm Himanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I'm SYD <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![WEB DEVELOPER](https://user-images.githubusercontent.com/92101909/152692594-14ea1eb8-8585-405f-b6cf-0cfbd6119591.png)
 
